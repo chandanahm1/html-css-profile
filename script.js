@@ -1,7 +1,7 @@
 // Step 1: Variables and Data Types
 let myName = "Chandana HM"; // Using let for a variable
 const age = 20; // Using const for a constant value
-let hobbies = ["Reading", "Coding", "Waching movies"]; // Array for hobbies
+let hobbies = ["Reading", "Coding", "Watching movies"]; // Array for hobbies
 let experienceLevel = "beginner"; // String data type
 
 console.log("My name is:", myName);
